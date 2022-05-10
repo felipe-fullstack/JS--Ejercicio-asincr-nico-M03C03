@@ -1,0 +1,24 @@
+body {
+    background-color: dodgerblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    border: 2px black dashed;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+#img {
+    width: 100%;
+    display: inline-block;
+}
